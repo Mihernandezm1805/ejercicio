@@ -50,6 +50,10 @@ while(sw==1):
       c=0
       p=0
       cc=0
+      precioC=0
+      precioP=0
+      precioCC=0
+
   elif op==5:
     print("hasta luego")
     sw=0
